@@ -15,8 +15,8 @@
 <details open>
   <summary> <strong> About Me&nbsp; :smile: </strong> </summary>
   
-- Student at [***Ahmedabad University***](https://ahduni.edu.in/) pursuing Bachelors degree in Computer Science and Engineering ***(B.Tech-C.S.E)***.  
-- Completion of Graduation in **2023**
+- Student at [***Ahmedabad University***](https://ahduni.edu.in/) pursuing Masters degree in Computer Science and Engineering with specialization in AI with DataScience ***(M.Tech-C.S.E)***.  
+- Distinguished in Under Grad in **2023**
 </details>
  <details open>
   <summary> <strong> Currently working on&nbsp;  </strong> </summary>
